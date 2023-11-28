@@ -1,0 +1,11 @@
+.img-wrapper{
+    position: relative;
+}
+
+.btn-image{
+    position: absolute;
+    top: 5px;
+    right:5px;
+}
+
+
